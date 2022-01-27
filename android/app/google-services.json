@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "883256853949",
+    "firebase_url": "https://demoflutter-4d9f9-default-rtdb.firebaseio.com",
+    "project_id": "demoflutter-4d9f9",
+    "storage_bucket": "demoflutter-4d9f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883256853949:android:fa690c69057a975c003ed4",
+        "android_client_info": {
+          "package_name": "com.Abhas.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha6VJZ1R6dUnqbM0b0Hv6WewtmkovKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883256853949:android:3b20e3d895984226003ed4",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha6VJZ1R6dUnqbM0b0Hv6WewtmkovKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883256853949:android:95d3fc850a7001b8003ed4",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCha6VJZ1R6dUnqbM0b0Hv6WewtmkovKPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883256853949-3ujrl6k5mealkm9du0q1g80kios3u3nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
